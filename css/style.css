@@ -10,8 +10,8 @@ h1{
     font-size: 50px;
 
 }
-section{
-    background-image:url(png\iguana-luces-neon.jpg);
-    background-size: cover;
+
+img{
+    width: 100%;
 
 }
